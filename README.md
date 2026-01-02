@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sina, a software developer with a passion for backend development and system administration. I work primarily with Python and Linux, building practical solutions and always exploring new technologies.
+I'm Sina, a software developer with a passion for backend development and system administration. I work primarily with Python and Linux, building practical solutions and always exploring new technologies, FOSS LOVER.
 
 ## What I'm working on
 - Backend development projects
