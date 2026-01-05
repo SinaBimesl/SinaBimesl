@@ -10,6 +10,6 @@ I'm Sina, a software developer with a passion for backend development and system
 ## Tech I enjoy
 - **Languages:** Python, C , js
 - **Systems:** Linux (antiX , Artix)
-- **Tools:** Git, Docker, n8n automation , postgres
+- **Tools:** Git, n8n automation , postgres
 
 I'm always learning and love collaborating on interesting projects. Feel free to explore my repositories and reach out if you'd like to connect!
